@@ -1,0 +1,9 @@
+com\test1\ConcreateStrategyA.class
+com\test1\Context.class
+com\test1\StrategyAliasConfig.class
+com\test1\StrategyFactory.class
+com\test1\Client2.class
+com\test1\Context2.class
+com\test1\ConcreateStrategyB.class
+com\test1\ConcreateStrategyC.class
+com\test1\Strategy.class
