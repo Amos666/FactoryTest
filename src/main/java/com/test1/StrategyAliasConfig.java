@@ -11,6 +11,7 @@ import jdk.nashorn.internal.objects.annotations.Setter;
 
 
 @PropertySource(value = "classpath:application.properties")
+//该标签才会让 configuration 注解生效，负责始终取不到配置文件内容
 @EnableConfigurationProperties 
 @ConfigurationProperties(prefix = "strategy")
 @Component
