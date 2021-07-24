@@ -4,7 +4,7 @@ public class Client2 {
     public static void main(String[] args) {
 
 
-        // add test new_b8
+        // add test new_b8   111
         Context2 strategyA = new Context2("strategyA");
         strategyA.printTheS10Result();
 
