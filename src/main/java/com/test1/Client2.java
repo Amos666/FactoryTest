@@ -2,6 +2,10 @@ package com.test1;
 
 public class Client2 {
     public static void main(String[] args) {
+
+
+        // add test new_b8   111
+        //work one new_b8
         Context2 strategyA = new Context2("strategyA");
         strategyA.printTheS10Result();
 
