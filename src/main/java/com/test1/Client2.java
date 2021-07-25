@@ -6,6 +6,8 @@ public class Client2 {
 
         // add test new_b8   111
         //work one new_b8
+        //add new line at server
+        
         Context2 strategyA = new Context2("strategyA");
         strategyA.printTheS10Result();
 
